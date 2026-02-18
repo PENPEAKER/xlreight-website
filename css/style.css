@@ -205,7 +205,7 @@ body {
 .about-bg {
     position: absolute;
     inset: 0;
-    background-image: url("assets/images/about-bg.jpg");
+    background-image: url("/assets/images/about-bg.jpg");
     background-size: cover;
     background-position: center;
     filter: blur(6px) scale(1.1);
@@ -849,3 +849,4 @@ body {
     border-color:rgba(255,255,255,0.25);
     color:#ddd;
 }
+
